@@ -1,14 +1,12 @@
 This is the server API for Chris' Monopoly App
 
-## Files
+## Server
 
-Here is a description and breakdown of the files in this project.
-
-### server.js
+Here is a description of the files in this API... (its tiny.)
 
 server.js is where all the action happens.
 
 Dependencies:
 
 - lowdb - This is nothing more than a cheap way to manage data via a text file (db.json). This would ultimately be replaced with a proper database.
-  - express - A library we use for a quick webserver to spin up.
+- express - A library we use for a quick webserver to spin up.
